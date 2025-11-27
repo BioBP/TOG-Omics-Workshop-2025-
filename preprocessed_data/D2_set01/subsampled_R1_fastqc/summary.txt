@@ -1,0 +1,11 @@
+PASS	Basic Statistics	subsampled_R1.fastq.gz
+PASS	Per base sequence quality	subsampled_R1.fastq.gz
+PASS	Per tile sequence quality	subsampled_R1.fastq.gz
+PASS	Per sequence quality scores	subsampled_R1.fastq.gz
+WARN	Per base sequence content	subsampled_R1.fastq.gz
+PASS	Per sequence GC content	subsampled_R1.fastq.gz
+PASS	Per base N content	subsampled_R1.fastq.gz
+PASS	Sequence Length Distribution	subsampled_R1.fastq.gz
+WARN	Sequence Duplication Levels	subsampled_R1.fastq.gz
+PASS	Overrepresented sequences	subsampled_R1.fastq.gz
+PASS	Adapter Content	subsampled_R1.fastq.gz

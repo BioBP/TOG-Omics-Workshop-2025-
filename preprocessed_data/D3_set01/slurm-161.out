@@ -1,0 +1,7 @@
+To execute Trimmomatic run: java -jar $EBROOTTRIMMOMATIC/trimmomatic-0.39.jar
+Picked up JAVA_TOOL_OPTIONS: -Xmx2g
+TrimmomaticPE: Started with arguments:
+ -threads 2 /home/user01/scratch/omics_workshop/preprocessed_data/D2_set01/subsampled_R1.fastq.gz /home/user01/scratch/omics_workshop/preprocessed_data/D2_set01/subsampled_R2.fastq.gz subsampled_R1.trim.fastq.gz R1_un.fastq.gz subsampled_R2.trim.fastq.gz R2_un.fastq.gz SLIDINGWINDOW:3:20 MINLEN:50
+Quality encoding detected as phred33
+Input Read Pairs: 2255622 Both Surviving: 2001479 (88.73%) Forward Only Surviving: 86692 (3.84%) Reverse Only Surviving: 99020 (4.39%) Dropped: 68431 (3.03%)
+TrimmomaticPE: Completed successfully
